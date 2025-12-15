@@ -1,7 +1,7 @@
 ![Dimasekun Game Screenshot](https://raw.githubusercontent.com/fgbdvcfbgnhgbfv/DImasekun-2/main/Dimasekun.jpg)
 
-Dimasekun-2 — Roblox Game Project
-A multiplayer Roblox game set in the surreal, chaotic universe of Aboba, where former friends and enemies are dragged into Dimasekun — a world of endless games, twisted powers, and personal vendettas.
+Dimasekun-2 - Roblox Game Project
+A multiplayer Roblox game set in the surreal, chaotic universe of Aboba, where former friends and enemies are dragged into Dimasekun - a world of endless games, twisted powers, and personal vendettas.
 
 Lore & Universe
 The game is based on the Aboba Universe, a sprawling narrative of fictional nations, ideologies, and characters created by a group of friends. Key factions include:
@@ -61,7 +61,7 @@ Example Characters:
 Name	Role	Rarity	Key Ability
 Svyatik	Killer	Starter	Pink Infection – spawns slowing blocks
 Dima Mobila	Killer	Legendary	Dima's Flight – flies and throws eggs
-Pig (Cyber)	Killer	Epic	Mechanical Eyes – reveals all survivors
+Pig (Cyber)	Killer	Epic	Mechanical Eyes - reveals all survivors
 Sasha Travoedov	Survivor	Epic	Grass Sapling – places healing plants
 Denis	Neutral	Epic	Redefinition – alters object properties
 Serega (Pig)	Survivor	Super Rare	Invisibility Cloak – stealth mode
