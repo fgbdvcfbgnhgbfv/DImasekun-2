@@ -1,3 +1,5 @@
+![Dimasekun Game Screenshot](https://raw.githubusercontent.com/fgbdvcfbgnhgbfv/DImasekun-2/main/Dimasekun.jpg)
+
 Dimasekun-2 — Roblox Game Project
 A multiplayer Roblox game set in the surreal, chaotic universe of Aboba, where former friends and enemies are dragged into Dimasekun — a world of endless games, twisted powers, and personal vendettas.
 
