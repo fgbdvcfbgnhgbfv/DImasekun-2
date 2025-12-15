@@ -3,7 +3,7 @@
 Dimasekun-2 — Roblox Game Project
 A multiplayer Roblox game set in the surreal, chaotic universe of Aboba, where former friends and enemies are dragged into Dimasekun — a world of endless games, twisted powers, and personal vendettas.
 
-📖 Lore & Universe
+Lore & Universe
 The game is based on the Aboba Universe, a sprawling narrative of fictional nations, ideologies, and characters created by a group of friends. Key factions include:
 
 Aboba – A once-unified alliance now fragmented into multiple states.
@@ -16,7 +16,7 @@ Various splinter states led by Danya, Sasha, Denis, Dima, and others.
 
 Players take on the roles of characters from this universe, each with unique abilities, backstories, and alignments (Survivor, Killer, or Neutral).
 
-🎮 Gameplay Overview
+Gameplay Overview
 Dimasekun is a round-based survival game with the following structure:
 
 Rounds last 5 minutes (2 minutes if only one player remains).
@@ -48,7 +48,7 @@ Rarities: Common, Rare, Epic, Mythical, Legendary
 
 Tokens can be used to purchase boxes in the shop.
 
-👥 Characters
+Characters
 Each character has:
 
 A unique backstory tying them to the Aboba lore.
@@ -67,7 +67,7 @@ Denis	Neutral	Epic	Redefinition – alters object properties
 Serega (Pig)	Survivor	Super Rare	Invisibility Cloak – stealth mode
 (Full list with stats and lore is available in the game’s lore menu.)
 
-🛠 Installation & Usage
+Installation & Usage
 This repository contains the source scripts for the Roblox game *Dimasekun-2*.
 
 Prerequisites
@@ -86,7 +86,7 @@ Adjust settings (round time, spawn points, UI) as needed.
 
 Publish to Roblox.
 
-📜 License
+License
 This project is licensed under the MIT License.
 See LICENSE for details.
 
@@ -99,7 +99,7 @@ Attribution to LOPKL2011
 
 By using this code in a Roblox project, you agree to these terms.
 
-👤 Author
+Author
 LOPKL2011 – Creator of the Aboba universe and the Dimasekun game.
 
 Note: This project is a fan-made adaptation of a collaborative fictional universe. All lore and characters are derived from original creative writing by the author and their community.
