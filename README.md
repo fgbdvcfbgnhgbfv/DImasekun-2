@@ -6,11 +6,11 @@ A multiplayer Roblox game set in the surreal, chaotic universe of Aboba, where f
 Lore & Universe
 The game is based on the Aboba Universe, a sprawling narrative of fictional nations, ideologies, and characters created by a group of friends. Key factions include:
 
-Aboba – A once-unified alliance now fragmented into multiple states.
+Aboba - A once-unified alliance now fragmented into multiple states.
 
-Polina Reich – A totalitarian regime led by Polina.
+Polina Reich - A totalitarian regime led by Polina.
 
-Serega’s Territories – The remnants of Aboba in exile.
+Serega’s Territories - The remnants of Aboba in exile.
 
 Various splinter states led by Danya, Sasha, Denis, Dima, and others.
 
@@ -59,12 +59,12 @@ Abilities: 3–5 special skills with cooldowns.
 
 Example Characters:
 Name	Role	Rarity	Key Ability
-Svyatik	Killer	Starter	Pink Infection – spawns slowing blocks
-Dima Mobila	Killer	Legendary	Dima's Flight – flies and throws eggs
+Svyatik	Killer	Starter	Pink Infection - spawns slowing blocks
+Dima Mobila	Killer	Legendary	Dima's Flight - flies and throws eggs
 Pig (Cyber)	Killer	Epic	Mechanical Eyes - reveals all survivors
-Sasha Travoedov	Survivor	Epic	Grass Sapling – places healing plants
-Denis	Neutral	Epic	Redefinition – alters object properties
-Serega (Pig)	Survivor	Super Rare	Invisibility Cloak – stealth mode
+Sasha Travoedov	Survivor	Epic	Grass Sapling - places healing plants
+Denis	Neutral	Epic	Redefinition - alters object properties
+Serega (Pig)	Survivor	Super Rare	Invisibility Cloak - stealth mode
 (Full list with stats and lore is available in the game’s lore menu.)
 
 Installation & Usage
@@ -100,6 +100,6 @@ Attribution to LOPKL2011
 By using this code in a Roblox project, you agree to these terms.
 
 Author
-LOPKL2011 – Creator of the Aboba universe and the Dimasekun game.
+LOPKL2011 - Creator of the Aboba universe and the Dimasekun game.
 
 Note: This project is a fan-made adaptation of a collaborative fictional universe. All lore and characters are derived from original creative writing by the author and their community.
